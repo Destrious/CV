@@ -63,17 +63,21 @@ p {
     text-decoration: underline;
 }
 
-.top-cloud{
+.top-cloud {
     position:absolute;
     top:5%;
     right:27%;
-  }
+}
 
-  .bottom-cloud{
+.bottom-cloud {
     position: absolute;
     left: 20%;
     top: 45%;
-  }
+}
+
+.mountain {
+    width: 45%;
+}
 
 .intro {
     width: 50%;
